@@ -1,5 +1,5 @@
 {
-  "mongoPath": "mongodb://localhost:27017/tk-hotgirls",
+  "mongoPath": "mongodb+srv://thogiap:Nsmlnty211612@cluster0-s49er.mongodb.net/test?retryWrites=true&w=majority",
   "sessionSecret": "himitsu",
   "secureCookie": false
 }
